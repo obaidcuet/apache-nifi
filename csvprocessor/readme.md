@@ -1,4 +1,4 @@
-# apache-nifi
+# apache-nifi-csvprocessor
 
 - A NiFi processor which can process csv file line by line.
 - In order to add your own transformation you can mek change in method "parseLine", ther is a "TODO:" tag
